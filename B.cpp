@@ -22,4 +22,4 @@ int main()
     string decrypted_string = xor_operation(encrypted_string);
     cout << decrypted_string << endl;
     return 0;
-}B
+}
